@@ -2,7 +2,7 @@
 /* 
  * clase para la conexion a la base de datos
  */
- 
+ //another comentat
  class Conexion extends Mysqli
  {
  	private $host;
