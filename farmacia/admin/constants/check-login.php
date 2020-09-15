@@ -8,7 +8,7 @@ $myvataor = $_SESSION['avator'];
 }else{
 
 header("location:../");
-
+//another commentary
 }
 
 ?>

@@ -2,7 +2,7 @@
 require_once('../assets/constants/config.php');
 require_once('constants/check-login.php');
 include('header.php');
-
+//another test
 $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
 $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 $stmt = $conn->prepare("SELECT * FROM groups WHERE name != 'admin'");

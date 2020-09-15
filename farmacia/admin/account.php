@@ -3,7 +3,7 @@ require_once('../assets/constants/config.php');
 require_once('constants/check-login.php');
 require_once('constants/fetch-my-info.php');
 include('header.php');
-
+//this a comentaria to test
 print_r($_SESSION);
 ?>
 <!-- BEGIN: Content-->
