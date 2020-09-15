@@ -1,5 +1,5 @@
 $(function() {
-    // Side Bar Toggle
+    // Side Bar Toggle all day
     $('.hide-sidebar').click(function() {
 	  $('#sidebar').hide('fast', function() {
 	  	$('#content').removeClass('span9');
