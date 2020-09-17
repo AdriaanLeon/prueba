@@ -98,7 +98,7 @@ try
                         <span class="fa fa-lock" aria-hidden="true"></span>
                         <input type="password" name="password" placeholder="Enter Password" required="">
                     </div>                     
-                        <button class="btn btn-danger btn-block" type="submit">Login</button >                
+                        <button class="btn btn-info btn-block" type="submit">Login</button >                
                 </form>
             </div>
         </div>
